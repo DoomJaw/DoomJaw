@@ -58,7 +58,7 @@
 </h2>
 
 <ul dir="auto">
-  <li>Brand Rep - Buffalo Trace Distillery, Pappy Van Winkle </li>
+  <li>Field Sales Manager - Buffalo Trace Distillery, Pappy Van Winkle </li>
   <li>Body Glove International Market Intern</li>
   <li>Florida Panthers (NHL) Replay Engineer</li>
 </ul>
